@@ -36,7 +36,7 @@ Implementation Challenges: We discussed common obstacles that companies face whe
 Case Studies: We reviewed real-world examples of companies that have successfully implemented AI solutions, gaining insights from their experiences.
 
 
-<u. WEEK 4 </u>
+<u> WEEK 4 </u>
 
 In Week 4, we focused on AI and Society. Here are the key topics we covered:
 
